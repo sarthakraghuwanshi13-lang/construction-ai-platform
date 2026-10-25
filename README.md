@@ -289,7 +289,7 @@ The **Multimodal Construction Intelligence Platform** is an **AI-assisted decisi
 ---
 
 ## 👤 Author & Academic Attribution
-- **Student / Developer**: Aadarsh Sahu
+- **Student / Developer**: Ankit Sahu
 - **Platform ID**: 6ac4c98d1dcde6d7857c1642
 - **Module**: Generative AI with Google Cloud
 - **Project**: Multimodal Construction Intelligence Platform
