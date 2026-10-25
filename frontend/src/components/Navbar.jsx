@@ -21,7 +21,7 @@ export default function Navbar({ onLoadPreset, onOpenReport, onRunAudit, isAudit
               </span>
             </div>
             <p className="text-[11px] text-[#94a3b8]">
-              Site Safety Vision & OSHA Compliance Auditor • 29 CFR 1926 Reference • Dev: Aadarsh Sahu
+              Site Safety Vision & OSHA Compliance Auditor • 29 CFR 1926 Reference • Dev: Ankit Sahu
             </p>
           </div>
         </div>
@@ -30,7 +30,7 @@ export default function Navbar({ onLoadPreset, onOpenReport, onRunAudit, isAudit
         <div className="flex items-center space-x-2.5">
           <div className="hidden md:flex items-center space-x-1 px-2.5 py-1 rounded bg-[#0d1424] border border-[#1e3050] text-[11px] text-[#94a3b8]">
             <User className="w-3 h-3 text-[#38bdf8]" />
-            <span>Aadarsh Sahu</span>
+            <span>Ankit Sahu</span>
           </div>
 
           <button
