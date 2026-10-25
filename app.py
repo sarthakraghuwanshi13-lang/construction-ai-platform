@@ -396,7 +396,7 @@ st.sidebar.markdown("---")
 st.sidebar.markdown("""
 <div style="background: rgba(14, 165, 233, 0.08); border: 1px solid rgba(14, 165, 233, 0.25); border-radius: 8px; padding: 12px;">
     <div style="font-size: 10px; text-transform: uppercase; color: #38bdf8; font-weight: 700; letter-spacing: 0.5px;">Student / Developer</div>
-    <div style="font-size: 14px; font-weight: 700; color: #f8fafc; margin-top: 2px;">Aadarsh Sahu</div>
+    <div style="font-size: 14px; font-weight: 700; color: #f8fafc; margin-top: 2px;">Ankit Sahu</div>
     <div style="font-size: 11px; color: #94a3b8; margin-top: 4px;">Platform ID: <code style="color:#38bdf8;">6ac4c98d1dcde6d7857c1642</code></div>
     <div style="font-size: 11px; color: #94a3b8;">Skill Wallet Capstone Project 1</div>
 </div>
@@ -1646,7 +1646,7 @@ with tab1:
         audit_json = {
             "platform_id": "6ac4c98d1dcde6d7857c1642",
             "audit_timestamp": rep_date,
-            "auditor": "Aadarsh Sahu",
+            "auditor": "Ankit Sahu",
             "safety_score": max(0, 100 - hazard_val),
             "overall_status": "COMPLIANT" if hazard_val < 35 else ("CAUTION" if hazard_val < 70 else "CRITICAL RISK"),
             "fall_risk_index_pct": fall_val,
@@ -2209,7 +2209,7 @@ st.markdown("---")
 st.markdown("""
 <div style="text-align: center; font-size: 11px; color: #64748b; line-height: 1.6; padding-bottom: 20px;">
     <strong>Multimodal Construction Intelligence Platform</strong> • Platform ID: <code style="color: #38bdf8;">6ac4c98d1dcde6d7857c1642</code><br>
-    Developed by <strong>Aadarsh Sahu</strong> • Certified for Skill Wallet Capstone Project 1 Submission<br>
+    Developed by <strong>Ankit Sahu</strong> • Certified for Skill Wallet Capstone Project 1 Submission<br>
     Engineered with Python, Streamlit Community Cloud, FastAPI, React & Google Gemini Multimodal Vision AI
 </div>
 """, unsafe_allow_html=True)
