@@ -1,0 +1,10 @@
+{
+  "name": "Sharma Residence (demo)",
+  "location": "Bhopal",
+  "project_type": "Residential building (G+1)",
+  "built_up_area": 1500,
+  "area_unit": "sq ft",
+  "floors": 2,
+  "currency": "INR",
+  "notes": "RCC framed structure with brick infill. Demo data only."
+}
